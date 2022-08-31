@@ -250,6 +250,8 @@ body {
 
 .advantage {
   display: flex;
+  align-items: center;
+  justify-content: center;
   width: 270px;
   height: 120px;
   padding-left: 0px;
