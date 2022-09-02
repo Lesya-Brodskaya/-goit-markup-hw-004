@@ -184,12 +184,10 @@ body {
   width: 16px;
   height: 12px;
   fill: #757575;
+  fill: currentColor;
 }
 
-.contact-list-icon:hover,
-.contact-list-icon:focus {
-  fill: var(--accent-color);
-}
+
 
 /* ГОЛОВНА СТОРІНКА */
 
@@ -417,7 +415,7 @@ body {
   justify-content: center;
   width: 170px;
   height: 92px;
-  background-color: #f5f5f5;
+  background-color: transparent;
   border-radius: 4px;
   border: 1px solid #afb1b8;
 }
